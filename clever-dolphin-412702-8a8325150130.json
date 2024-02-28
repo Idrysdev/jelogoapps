@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clever-dolphin-412702",
+  "private_key_id": "8a8325150130409a004b7c0aa8597c0262bf016d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCsQTlyWU8DtwqR\n3THHLilwuS+K0H2Z6Kjl+c7pn+pJ1rJ1XSaO5/5wXp0SIdlLeJDUhSt1FnN6jewF\nH0d08iNSFFsME0XoyOgk02pB7D2M/KjbBEL5dZKqLaZLI9Vn/FruhYqFgBZONkTi\nDXbC0UKr3THzxTYsolx4lI8jItZtwbNOT4/wnJCoMZIAlEyXGOLFMFnkiSxat437\n/CGM/M+dYXdkWzTKb+yBqOO9T3NcM3WiVQ8I+ED3d3jK019P1FrWker08+cuRsc1\ntaG7yCWXWM0lQze0hxpirfCKfw35GQTAbjNUz7RqiJ7XYjiqtkmfpMfXMfZ/8Wfy\nVXuk/YmdAgMBAAECggEATNzH4P3384zsMv00FpBDHpELpVH2EcTPBNus1/OrDCq4\ntAUOTQs5LnQRe4NOHk6cta/8ncEYY1HLxNdZv9XCLAB4RhGdisuHRtNtoR/ksTIW\nuLAUoJK1kKlRAEtrkPx6qN8+2eY3TcwKfaILYdAVg3HutbtEurLyNz33BvMnIo7m\nS1GOO82FfdJH38Te7k3sH49EBmApcCEXMjQrzzmI/Jb9+BvcVwTOVuqVuQXrYKC8\naiQzu9LFtIrD+JuKkYv3CBSRRFhMAM1dZIYt3KJKLWc8PCbDOh0bH7vMW3cGZGTQ\n3qDUeP9R9LVadCKVl+pTY+um/p+jUFbRMlNjEGj2QwKBgQDZQSTZdx4TrleldmrO\n/Wt5JdKtwon/F6b2U/yeZRtYayGmKycXsGS8dKGLjos39up1OTcKuamI1whv/GCK\nxMG7ESuNoe9BzQ6ztwwP+/cglSrwKJTiFyVMx1KSs0E2GP9t7QSJ3kkxxMwsH7WZ\nDCaHkH3xkbystZPCf/5j7doktwKBgQDK+Zkxd1+VbXExXAaibntOCv5y+eWmytci\n8ti+qH8/UWEFYADOc6UTsuf0mqMwy0YK15jdLKimUXGXKXyM1DwVL1CL3Jwgw2fu\n2eWUXk7MxCcibyUfv2OEUbAGyJRbUrGF0BEiq00dVy281qDfn/aBo968GB1/nFyp\nP8EG2Rl4SwKBgQCFxekMxp4MfFOXnLzTy5N7u2Bogds66bNzBfANEDCwVvcXPIcL\nvR+qMx6tsg3jXfSsTZioz/2mNtIJMpu3lsO7ji0FPur112/wFQwmY32d4HvZ+QMD\n3ECpcCpWDm5fAzF03Hbo9aiYLpeRq8zD+olW/A+wyY4lwoDDSNC5c2HZLQKBgQCx\nkca5hctzOHmMSwvq0mjBD9Em2QRV9KJdisKfmV0pEZKlVyWdd4J1R1Cxpw8ZQtwV\n5CNxav5n8lxDeCHkOlAN4ITAttFHwGuOg8XbFN4vOXNbJoz9xzvSqHwskxFnC2MO\nw8YZ5G7kOj5jNAktWg4XwDq9pwM3fp1527KMwSUNHQKBgQCoN2Gl3BQGCp+gZ/Qz\n/BPzd4a7Txf+BiSRdQ/Qgv4+L+5JTYqWVWPCG2nz4oMkGh5t7Ufp+Y9laFgdMRlU\ngJu8J18K8nmCal8EyGaNhs7HC1H3hr9qfGIFIIqi3JkUh9TDDKs0caH50PnuDuXN\nG8QXqLLbB+SMFNIhWMl9d7NKjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jelogo-native@clever-dolphin-412702.iam.gserviceaccount.com",
+  "client_id": "107002029745170066451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jelogo-native%40clever-dolphin-412702.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091334536960",
+    "project_id": "jelogo-852d5",
+    "storage_bucket": "jelogo-852d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091334536960:android:49e7d57ccccf59e462bde5",
+        "android_client_info": {
+          "package_name": "com.dhgroupes.jelogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujpyh8we4eKrIV1b59ZyykWynqsUjmoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
